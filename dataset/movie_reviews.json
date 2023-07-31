@@ -1,0 +1,2107 @@
+{
+    "status": "OK",
+    "copyright": "Copyright (c) 2023 The New York Times Company. All Rights Reserved.",
+    "section": "Movies",
+    "last_updated": "2023-07-28T11:16:43-04:00",
+    "num_results": 34,
+    "results": [
+        {
+            "section": "movies",
+            "subsection": "",
+            "title": "\u2018Haunted Mansion\u2019 Review: A Disney Ride to Nowhere Fun",
+            "abstract": "Starring LaKeith Stanfield and Rosario Dawson, this movie plays like a feature-length ad for Disney\u2019s theme-park attraction of the same name.",
+            "url": "https://www.nytimes.com/2023/07/27/movies/haunted-mansion-review.html",
+            "uri": "nyt://article/a9c7ca49-b052-58bf-8dc0-da0d6f5f4569",
+            "byline": "By Manohla Dargis",
+            "item_type": "Article",
+            "updated_date": "2023-07-28T12:33:55-04:00",
+            "created_date": "2023-07-27T05:00:23-04:00",
+            "published_date": "2023-07-27T05:00:23-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Movies",
+                "Haunted Mansion (Movie)"
+            ],
+            "org_facet": [],
+            "per_facet": [
+                "Curtis, Jamie Lee",
+                "Dawson, Rosario",
+                "DeVito, Danny",
+                "Haddish, Tiffany",
+                "Simien, Justin",
+                "Wilson, Owen",
+                "Stanfield, Lakeith"
+            ],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2023/07/27/multimedia/27haunted-mansion-jvwt/27haunted-mansion-jvwt-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1017,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "From left, Rosario Dawson, Tiffany Haddish, LaKeith Stanfield and Owen Wilson in \u201cHaunted Mansion.\u201d",
+                    "copyright": "Jalen Marlowe/Disney"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2023/07/27/multimedia/27haunted-mansion-jvwt/27haunted-mansion-jvwt-threeByTwoSmallAt2X-v2.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "From left, Rosario Dawson, Tiffany Haddish, LaKeith Stanfield and Owen Wilson in \u201cHaunted Mansion.\u201d",
+                    "copyright": "Jalen Marlowe/Disney"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2023/07/27/multimedia/27haunted-mansion-jvwt/27haunted-mansion-jvwt-thumbLarge-v2.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "From left, Rosario Dawson, Tiffany Haddish, LaKeith Stanfield and Owen Wilson in \u201cHaunted Mansion.\u201d",
+                    "copyright": "Jalen Marlowe/Disney"
+                }
+            ],
+            "short_url": "https://nyti.ms/3q9jrN1"
+        },
+        {
+            "section": "movies",
+            "subsection": "",
+            "title": "\u2018Talk to Me\u2019 Review: Letting the Wrong One In",
+            "abstract": "A bereaved young woman falls under the spell of a dangerous artifact in this vibrant and poignant horror debut.",
+            "url": "https://www.nytimes.com/2023/07/27/movies/talk-to-me-review.html",
+            "uri": "nyt://article/babe0afd-fa03-562b-a2e8-57d39c7a2da8",
+            "byline": "By Jeannette Catsoulis",
+            "item_type": "Article",
+            "updated_date": "2023-07-27T17:25:02-04:00",
+            "created_date": "2023-07-27T07:00:03-04:00",
+            "published_date": "2023-07-27T07:00:03-04:00",
+            "material_type_facet": "",
+            "kicker": "Critic\u2019s Pick",
+            "des_facet": [
+                "Movies",
+                "Talk to Me (Movie)"
+            ],
+            "org_facet": [],
+            "per_facet": [
+                "Philippou, Danny",
+                "Philippou, Michael"
+            ],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2023/07/26/multimedia/talk1-khtf/talk1-khtf-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 800,
+                    "width": 1920,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Sophie Wilde in \u201cTalk to Me.\u201d",
+                    "copyright": "A24"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2023/07/26/multimedia/talk1-khtf/talk1-khtf-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Sophie Wilde in \u201cTalk to Me.\u201d",
+                    "copyright": "A24"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2023/07/26/multimedia/talk1-khtf/talk1-khtf-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Sophie Wilde in \u201cTalk to Me.\u201d",
+                    "copyright": "A24"
+                }
+            ],
+            "short_url": "https://nyti.ms/3Keeida"
+        },
+        {
+            "section": "movies",
+            "subsection": "",
+            "title": "\u2018The Beanie Bubble\u2019 Review: Caught in a Fad Romance",
+            "abstract": "This dramatic comedy about Beanie Babies, starring Zach Galifianakis, Elizabeth Banks and Sarah Snook, arrives at the tail end of a summer of corporate biopics.",
+            "url": "https://www.nytimes.com/2023/07/27/movies/the-beanie-bubble-review.html",
+            "uri": "nyt://article/0bff8e3b-07ec-5388-b7ca-68ba282f7019",
+            "byline": "By Calum Marsh",
+            "item_type": "Article",
+            "updated_date": "2023-07-28T12:33:04-04:00",
+            "created_date": "2023-07-27T07:00:11-04:00",
+            "published_date": "2023-07-27T07:00:11-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Movies",
+                "The Beanie Bubble (Movie)"
+            ],
+            "org_facet": [
+                "Apple TV Plus"
+            ],
+            "per_facet": [
+                "Banks, Elizabeth",
+                "Galifianakis, Zach",
+                "Snook, Sarah",
+                "Viswanathan, Geraldine",
+                "Gore, Kristin C",
+                "Kulash, Damian"
+            ],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2023/07/27/multimedia/27beanie-bubble-review-hqcj/27beanie-bubble-review-hqcj-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1120,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Elizabeth Banks and Zach Galifianakis in \u201cThe Beanie Bubble.\u201d",
+                    "copyright": "Apple TV+"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2023/07/27/multimedia/27beanie-bubble-review-hqcj/27beanie-bubble-review-hqcj-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Elizabeth Banks and Zach Galifianakis in \u201cThe Beanie Bubble.\u201d",
+                    "copyright": "Apple TV+"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2023/07/27/multimedia/27beanie-bubble-review-hqcj/27beanie-bubble-review-hqcj-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Elizabeth Banks and Zach Galifianakis in \u201cThe Beanie Bubble.\u201d",
+                    "copyright": "Apple TV+"
+                }
+            ],
+            "short_url": "https://nyti.ms/3Ql0UYV"
+        },
+        {
+            "section": "movies",
+            "subsection": "",
+            "title": "Five International Movies to Stream Now",
+            "abstract": "This month\u2019s picks include a bittersweet French comedy, a gutting Serbian social-realist drama, a Mexican true-crime doc and more.",
+            "url": "https://www.nytimes.com/2023/07/28/movies/international-movies-streaming.html",
+            "uri": "nyt://article/d0f2c432-95cd-5afe-99f8-6b52984dd300",
+            "byline": "By Devika Girish",
+            "item_type": "Article",
+            "updated_date": "2023-07-28T18:28:34-04:00",
+            "created_date": "2023-07-28T11:00:08-04:00",
+            "published_date": "2023-07-28T11:00:08-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Movies",
+                "Everybody Loves Jeanne (Movie)",
+                "Father (Movie)",
+                "The Harvesters (Movie)",
+                "Zoo Lock Down (Movie)",
+                "The Lady of Silence: The Mataviejitas Murders (Movie)"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2023/07/27/arts/everybody1/everybody1-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1334,
+                    "width": 2000,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Laurent Lafitte, center left, with Blanche Gardin, in \u201cEverybody Loves Jeanne.\u201d",
+                    "copyright": "Mubi"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2023/07/27/arts/everybody1/everybody1-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Laurent Lafitte, center left, with Blanche Gardin, in \u201cEverybody Loves Jeanne.\u201d",
+                    "copyright": "Mubi"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2023/07/27/arts/everybody1/everybody1-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Laurent Lafitte, center left, with Blanche Gardin, in \u201cEverybody Loves Jeanne.\u201d",
+                    "copyright": "Mubi"
+                }
+            ],
+            "short_url": "https://nyti.ms/3q8wwpP"
+        },
+        {
+            "section": "movies",
+            "subsection": "",
+            "title": "\u2018War Pony\u2019 Review: The Sad Absurdities of Reservation Life",
+            "abstract": "Riley Keough and Gina Gammell\u2019s stellar debut, starring many first-time actors, takes a deadpan look at a Lakota-Sioux reservation in South Dakota.",
+            "url": "https://www.nytimes.com/2023/07/27/movies/war-pony-review.html",
+            "uri": "nyt://article/1f226d24-ae37-507b-8831-e38db99122e9",
+            "byline": "By Amy Nicholson",
+            "item_type": "Article",
+            "updated_date": "2023-07-28T13:34:24-04:00",
+            "created_date": "2023-07-27T14:26:30-04:00",
+            "published_date": "2023-07-27T14:26:30-04:00",
+            "material_type_facet": "",
+            "kicker": "Critic\u2019s Pick",
+            "des_facet": [
+                "Movies",
+                "War Pony (Movie)"
+            ],
+            "org_facet": [],
+            "per_facet": [
+                "Keough, Riley",
+                "Gammell, Gina"
+            ],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2023/07/27/multimedia/27war-pony-review-fmlt/27war-pony-review-fmlt-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1366,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Wasose Garcia, left, and Jojo Bapteise Whiting in \u201cWar Pony.\u201d",
+                    "copyright": "Momentum Pictures"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2023/07/27/multimedia/27war-pony-review-fmlt/27war-pony-review-fmlt-threeByTwoSmallAt2X-v2.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Wasose Garcia, left, and Jojo Bapteise Whiting in \u201cWar Pony.\u201d",
+                    "copyright": "Momentum Pictures"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2023/07/27/multimedia/27war-pony-review-fmlt/27war-pony-review-fmlt-thumbLarge-v2.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Wasose Garcia, left, and Jojo Bapteise Whiting in \u201cWar Pony.\u201d",
+                    "copyright": "Momentum Pictures"
+                }
+            ],
+            "short_url": "https://nyti.ms/43KYllC"
+        },
+        {
+            "section": "movies",
+            "subsection": "",
+            "title": "Despite Acquittal, Kevin Spacey Faces Uphill Battle for Hollywood Roles",
+            "abstract": "The actor, who was cleared of sexual assault charges in Britain this week, has parts in two small upcoming films. Yet his tarnished public perception makes starry roles unlikely.",
+            "url": "https://www.nytimes.com/2023/07/28/movies/kevin-spacey-career-roles.html",
+            "uri": "nyt://article/b3cf572e-3801-5dbd-b502-4f41d3313035",
+            "byline": "By Alex Marshall and Maya Salam",
+            "item_type": "Article",
+            "updated_date": "2023-07-29T16:29:51-04:00",
+            "created_date": "2023-07-28T11:00:12-04:00",
+            "published_date": "2023-07-28T11:00:12-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Sex Crimes",
+                "Sexual Harassment",
+                "Actors and Actresses",
+                "Theater",
+                "Movies",
+                "Television"
+            ],
+            "org_facet": [],
+            "per_facet": [
+                "Spacey, Kevin"
+            ],
+            "geo_facet": [
+                "London (England)"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2023/07/28/multimedia/28spacey-career-cthq/28spacey-career-cthq-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "\u201cI imagine that many of you can understand that there\u2019s a lot for me to process,\u201d Kevin Spacey said from the courthouse steps in London after being acquitted of sexual assault charges.",
+                    "copyright": "Susannah Ireland/Reuters"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2023/07/28/multimedia/28spacey-career-cthq/28spacey-career-cthq-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "\u201cI imagine that many of you can understand that there\u2019s a lot for me to process,\u201d Kevin Spacey said from the courthouse steps in London after being acquitted of sexual assault charges.",
+                    "copyright": "Susannah Ireland/Reuters"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2023/07/28/multimedia/28spacey-career-cthq/28spacey-career-cthq-thumbLarge-v2.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "\u201cI imagine that many of you can understand that there\u2019s a lot for me to process,\u201d Kevin Spacey said from the courthouse steps in London after being acquitted of sexual assault charges.",
+                    "copyright": "Susannah Ireland/Reuters"
+                }
+            ],
+            "short_url": "https://nyti.ms/3Ki2fM0"
+        },
+        {
+            "section": "movies",
+            "subsection": "",
+            "title": "\u2018Oppenheimer\u2019 Fans Are Rediscovering a 40-Year-Old Documentary",
+            "abstract": "\u201cThe Day After Trinity,\u201d made available without a subscription until August, shot to the top of the Criterion Channel\u2019s most-watched films.",
+            "url": "https://www.nytimes.com/2023/07/27/movies/day-after-trinity-oppenheimer-documentary.html",
+            "uri": "nyt://article/3f96b2f9-d2ab-563d-9980-6f68833ac339",
+            "byline": "By Marc Tracy",
+            "item_type": "Article",
+            "updated_date": "2023-07-30T11:21:11-04:00",
+            "created_date": "2023-07-27T16:02:28-04:00",
+            "published_date": "2023-07-27T16:02:28-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Movies",
+                "Oppenheimer (Movie)",
+                "Nuclear Weapons",
+                "Documentary Films and Programs",
+                "Manhattan Project",
+                "Nuclear Tests",
+                "The Day After Trinity (Movie)"
+            ],
+            "org_facet": [],
+            "per_facet": [
+                "Else, Jon H",
+                "Oppenheimer, J Robert",
+                "Nolan, Christopher"
+            ],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2023/07/29/arts/27oppenheimer-documentary/27oppenheimer-documentary-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 472,
+                    "width": 639,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Decades before the movie \u201cOppenheimer,\u201d J. Robert Oppenheimer and his work on the atomic bomb were the subject of the Academy Award-nominated documentary \u201cThe Day After Trinity.\u201d",
+                    "copyright": "via the Criterion Channel"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2023/07/29/arts/27oppenheimer-documentary/27oppenheimer-documentary-threeByTwoSmallAt2X-v2.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Decades before the movie \u201cOppenheimer,\u201d J. Robert Oppenheimer and his work on the atomic bomb were the subject of the Academy Award-nominated documentary \u201cThe Day After Trinity.\u201d",
+                    "copyright": "via the Criterion Channel"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2023/07/29/arts/27oppenheimer-documentary/27oppenheimer-documentary-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Decades before the movie \u201cOppenheimer,\u201d J. Robert Oppenheimer and his work on the atomic bomb were the subject of the Academy Award-nominated documentary \u201cThe Day After Trinity.\u201d",
+                    "copyright": "via the Criterion Channel"
+                }
+            ],
+            "short_url": "https://nyti.ms/3Kjjn45"
+        },
+        {
+            "section": "movies",
+            "subsection": "",
+            "title": "How Those \u2018Barbie\u2019 Dreamhouses Came to Life: \u2018We All Had to Believe in It\u2019",
+            "abstract": "To make their Barbieland sets a reality, the movie\u2019s production team embraced the surreal, going big on bright pinks and shrunken proportions.",
+            "url": "https://www.nytimes.com/2023/07/26/movies/barbie-movie-set-design.html",
+            "uri": "nyt://article/195e853a-4d91-5bb3-aedb-0c60e158a92b",
+            "byline": "By Kyle Buchanan",
+            "item_type": "Article",
+            "updated_date": "2023-07-28T17:14:01-04:00",
+            "created_date": "2023-07-26T05:00:48-04:00",
+            "published_date": "2023-07-26T05:00:48-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Movies",
+                "Barbie (Movie)",
+                "Design"
+            ],
+            "org_facet": [],
+            "per_facet": [
+                "Greenwood, Sarah",
+                "Spencer, Katie (Set Decorator)",
+                "Gerwig, Greta"
+            ],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2023/07/29/multimedia/26barbie-productiondesign-03-klzt/26barbie-productiondesign-03-klzt-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 979,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Margot Robbie as Barbie in Greta Gerwig\u2019s comedy hit. \u201cIt was one of the most difficult philosophical, intellectual, cerebral pieces of work we\u2019ve ever done,\u201d said Sarah Greenwood, who created the movie\u2019s sets along with Katie Spencer.",
+                    "copyright": "Warner Bros."
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2023/07/29/multimedia/26barbie-productiondesign-03-klzt/26barbie-productiondesign-03-klzt-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Margot Robbie as Barbie in Greta Gerwig\u2019s comedy hit. \u201cIt was one of the most difficult philosophical, intellectual, cerebral pieces of work we\u2019ve ever done,\u201d said Sarah Greenwood, who created the movie\u2019s sets along with Katie Spencer.",
+                    "copyright": "Warner Bros."
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2023/07/29/multimedia/26barbie-productiondesign-03-klzt/26barbie-productiondesign-03-klzt-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Margot Robbie as Barbie in Greta Gerwig\u2019s comedy hit. \u201cIt was one of the most difficult philosophical, intellectual, cerebral pieces of work we\u2019ve ever done,\u201d said Sarah Greenwood, who created the movie\u2019s sets along with Katie Spencer.",
+                    "copyright": "Warner Bros."
+                }
+            ],
+            "short_url": "https://nyti.ms/3KeKIEs"
+        },
+        {
+            "section": "movies",
+            "subsection": "",
+            "title": "\u2018The First Slam Dunk\u2019 Review: Style Points",
+            "abstract": "A popular sports manga about a Japanese high school basketball team vaults to the big screen in an exhilarating, gorgeous anime.",
+            "url": "https://www.nytimes.com/2023/07/27/movies/the-first-slam-dunk-review-style-points.html",
+            "uri": "nyt://article/465812cd-ab7b-526a-b41b-3bf2b36c1a70",
+            "byline": "By Calum Marsh",
+            "item_type": "Article",
+            "updated_date": "2023-07-27T17:26:02-04:00",
+            "created_date": "2023-07-27T07:00:03-04:00",
+            "published_date": "2023-07-27T07:00:03-04:00",
+            "material_type_facet": "",
+            "kicker": "Critic\u2019s Pick",
+            "des_facet": [
+                "Movies",
+                "Basketball",
+                "Animated Films",
+                "The First Slam Dunk (Movie)"
+            ],
+            "org_facet": [],
+            "per_facet": [
+                "Inoue, Takehiko (1967- )"
+            ],
+            "geo_facet": [
+                "Japan"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2023/07/27/multimedia/firstslam1-klvg/firstslam1-klvg-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1080,
+                    "width": 1920,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A scene from the animated film \u201cThe First Slam Dunk.\u201d",
+                    "copyright": "GKIDS"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2023/07/27/multimedia/firstslam1-klvg/firstslam1-klvg-threeByTwoSmallAt2X-v2.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A scene from the animated film \u201cThe First Slam Dunk.\u201d",
+                    "copyright": "GKIDS"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2023/07/27/multimedia/firstslam1-klvg/firstslam1-klvg-thumbLarge-v2.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A scene from the animated film \u201cThe First Slam Dunk.\u201d",
+                    "copyright": "GKIDS"
+                }
+            ],
+            "short_url": "https://nyti.ms/44XlVN2"
+        },
+        {
+            "section": "movies",
+            "subsection": "",
+            "title": "Julian Barry, Who Made Lenny Bruce Into \u2018Lenny,\u2019 Dies at 92",
+            "abstract": "Mr. Barry\u2019s scripts for a hit Broadway play and later a Hollywood movie about that rule-breaking comic helped give Mr. Bruce a lasting place in pop culture lore.",
+            "url": "https://www.nytimes.com/2023/07/27/movies/julian-barry-dead.html",
+            "uri": "nyt://article/f0686f54-8b0a-5dae-bcdd-5c247ec20de9",
+            "byline": "By Alex Traub",
+            "item_type": "Article",
+            "updated_date": "2023-07-29T23:30:17-04:00",
+            "created_date": "2023-07-27T14:01:25-04:00",
+            "published_date": "2023-07-27T14:01:25-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Deaths (Obituaries)",
+                "Writing and Writers",
+                "Lenny (Movie)",
+                "Lenny (Play)",
+                "Movies",
+                "Theater",
+                "Comedy and Humor"
+            ],
+            "org_facet": [],
+            "per_facet": [
+                "Barry, Julian",
+                "Bruce, Lenny"
+            ],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2023/07/30/obituaries/00Barry-Julian1-print1/00Barry-Julian1-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1618,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Julian Barry backstage during rehearsals for a 1999 London production of \u201cLenny.\u201d \u201cIn the play, I mythologized Lenny Bruce,\u201d he said.",
+                    "copyright": "Nobby Clark/Popperfoto, via Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2023/07/30/obituaries/00Barry-Julian1-print1/00Barry-Julian1-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Julian Barry backstage during rehearsals for a 1999 London production of \u201cLenny.\u201d \u201cIn the play, I mythologized Lenny Bruce,\u201d he said.",
+                    "copyright": "Nobby Clark/Popperfoto, via Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2023/07/30/obituaries/00Barry-Julian1-print1/00Barry-Julian1-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Julian Barry backstage during rehearsals for a 1999 London production of \u201cLenny.\u201d \u201cIn the play, I mythologized Lenny Bruce,\u201d he said.",
+                    "copyright": "Nobby Clark/Popperfoto, via Getty Images"
+                }
+            ],
+            "short_url": "https://nyti.ms/453zlHr"
+        },
+        {
+            "section": "movies",
+            "subsection": "",
+            "title": "\u2018The Unknown Country\u2019 Review: A Granddaughter\u2019s Road Trip",
+            "abstract": "Lily Gladstone\u2019s achingly measured performance braided with the actual stories from nonprofessional actors makes Morrisa Maltz\u2019s film a memorable road trip.",
+            "url": "https://www.nytimes.com/2023/07/27/movies/the-unknown-country-review.html",
+            "uri": "nyt://article/33ab98ee-4e73-5239-ad69-4198f86c5ac1",
+            "byline": "By Lisa Kennedy",
+            "item_type": "Article",
+            "updated_date": "2023-07-27T17:27:04-04:00",
+            "created_date": "2023-07-27T13:58:33-04:00",
+            "published_date": "2023-07-27T13:58:33-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Movies",
+                "The Unknown Country (Movie)"
+            ],
+            "org_facet": [],
+            "per_facet": [
+                "Gladstone, Lily",
+                "Maltz, Morrisa"
+            ],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2023/07/27/multimedia/27unknown-country-review-wkmb/27unknown-country-review-wkmb-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1152,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Lily Gladstone plays Tana in \u201cThe Unknown Country.\u201d",
+                    "copyright": "Music Box Films"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2023/07/27/multimedia/27unknown-country-review-wkmb/27unknown-country-review-wkmb-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Lily Gladstone plays Tana in \u201cThe Unknown Country.\u201d",
+                    "copyright": "Music Box Films"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2023/07/27/multimedia/27unknown-country-review-wkmb/27unknown-country-review-wkmb-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Lily Gladstone plays Tana in \u201cThe Unknown Country.\u201d",
+                    "copyright": "Music Box Films"
+                }
+            ],
+            "short_url": "https://nyti.ms/3OyO4oC"
+        },
+        {
+            "section": "movies",
+            "subsection": "",
+            "title": "\u2018Kokomo City\u2019 Review: Dispatches From the Down Low",
+            "abstract": "The director D. Smith\u2019s new documentary follows four Black transgender women, who talk about how they got into sex work.",
+            "url": "https://www.nytimes.com/2023/07/27/movies/kokomo-city-review.html",
+            "uri": "nyt://article/c4f7e4b0-51fc-5aad-8b4e-ce53749ee1e5",
+            "byline": "By Teo Bugbee",
+            "item_type": "Article",
+            "updated_date": "2023-07-28T12:25:11-04:00",
+            "created_date": "2023-07-27T13:00:45-04:00",
+            "published_date": "2023-07-27T13:00:45-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Documentary Films and Programs",
+                "Kokomo City (Movie)",
+                "Transgender",
+                "Black People",
+                "Prostitution"
+            ],
+            "org_facet": [],
+            "per_facet": [
+                "Smith, D (Filmmaker)"
+            ],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2023/07/27/multimedia/27kokomo-city-hpmc/27kokomo-city-hpmc-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1080,
+                    "width": 1920,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Koko Da Doll, one of the subjects of the new documentary \u201cKokomo City.\u201d",
+                    "copyright": "Magnolia Pictures"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2023/07/27/multimedia/27kokomo-city-hpmc/27kokomo-city-hpmc-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Koko Da Doll, one of the subjects of the new documentary \u201cKokomo City.\u201d",
+                    "copyright": "Magnolia Pictures"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2023/07/27/multimedia/27kokomo-city-hpmc/27kokomo-city-hpmc-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Koko Da Doll, one of the subjects of the new documentary \u201cKokomo City.\u201d",
+                    "copyright": "Magnolia Pictures"
+                }
+            ],
+            "short_url": "https://nyti.ms/3OyJyGG"
+        },
+        {
+            "section": "movies",
+            "subsection": "",
+            "title": "\u2018Bobi Wine: The People\u2019s President\u2019 Review: A Pop Star Turns Politician",
+            "abstract": "Uganda has been under authoritarian rule for decades. Wine has doggedly challenged its leader, and this documentary shows the price he\u2019s paid.",
+            "url": "https://www.nytimes.com/2023/07/27/movies/bobi-wine-the-peoples-president-review.html",
+            "uri": "nyt://article/8968a48d-f1cd-55be-bbd4-7a413218bf50",
+            "byline": "By Glenn Kenny",
+            "item_type": "Article",
+            "updated_date": "2023-07-27T17:25:47-04:00",
+            "created_date": "2023-07-27T07:00:20-04:00",
+            "published_date": "2023-07-27T07:00:20-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Documentary Films and Programs",
+                "Bobi Wine: The People's President (Movie)"
+            ],
+            "org_facet": [],
+            "per_facet": [
+                "Kyagulanyi Ssentamu, Robert (Bobi Wine)",
+                "Bwayo, Moses",
+                "Sharp, Christopher (Film Director)"
+            ],
+            "geo_facet": [
+                "Uganda"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2023/07/27/multimedia/27bobi-wine-doc-review-vpcm/27bobi-wine-doc-review-vpcm-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1358,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "As a campaigner, Bobi Wine is cheerful and stylish, writes our critic. But the autocratic president\u2019s attacks on him are relentless.",
+                    "copyright": "Katumba Badru/National Geographic"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2023/07/27/multimedia/27bobi-wine-doc-review-vpcm/27bobi-wine-doc-review-vpcm-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "As a campaigner, Bobi Wine is cheerful and stylish, writes our critic. But the autocratic president\u2019s attacks on him are relentless.",
+                    "copyright": "Katumba Badru/National Geographic"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2023/07/27/multimedia/27bobi-wine-doc-review-vpcm/27bobi-wine-doc-review-vpcm-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "As a campaigner, Bobi Wine is cheerful and stylish, writes our critic. But the autocratic president\u2019s attacks on him are relentless.",
+                    "copyright": "Katumba Badru/National Geographic"
+                }
+            ],
+            "short_url": "https://nyti.ms/3YbJnnB"
+        },
+        {
+            "section": "movies",
+            "subsection": "",
+            "title": "\u2018El Agua\u2019 Review: After the Flood, the Legends",
+            "abstract": "This film from Elena L\u00f3pez Riera follows what happens when floods drench a village in southeastern Spain.",
+            "url": "https://www.nytimes.com/2023/07/27/movies/el-agua-review.html",
+            "uri": "nyt://article/bb15df11-672a-5e1b-b6e1-e0c338d2dd5d",
+            "byline": "By Devika Girish",
+            "item_type": "Article",
+            "updated_date": "2023-07-27T17:26:16-04:00",
+            "created_date": "2023-07-27T07:00:18-04:00",
+            "published_date": "2023-07-27T07:00:18-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Movies",
+                "El Agua (Movie)"
+            ],
+            "org_facet": [],
+            "per_facet": [
+                "Lopez Riera, Elena"
+            ],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2023/07/26/multimedia/agua1-kglt/agua1-kglt-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1107,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Luna Pamies in \u201cEl Agua.\u201d",
+                    "copyright": "Elle Driver/Elastica Films"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2023/07/26/multimedia/agua1-kglt/agua1-kglt-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Luna Pamies in \u201cEl Agua.\u201d",
+                    "copyright": "Elle Driver/Elastica Films"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2023/07/26/multimedia/agua1-kglt/agua1-kglt-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Luna Pamies in \u201cEl Agua.\u201d",
+                    "copyright": "Elle Driver/Elastica Films"
+                }
+            ],
+            "short_url": "https://nyti.ms/3QbUrPF"
+        },
+        {
+            "section": "movies",
+            "subsection": "",
+            "title": "\u2018Happiness for Beginners\u2019 Review: Live, Laugh, Hike",
+            "abstract": "Ellie Kemper and Luke Grimes star in \u201cHappiness for Beginners,\u201d an outdoorsy rom-com that\u2019s inoffensive to a fault.",
+            "url": "https://www.nytimes.com/2023/07/27/movies/happiness-for-beginners-review.html",
+            "uri": "nyt://article/c0cbb2f5-50f8-5bc6-b8c1-81c293bcf374",
+            "byline": "By Claire Shaffer",
+            "item_type": "Article",
+            "updated_date": "2023-07-27T17:25:28-04:00",
+            "created_date": "2023-07-27T07:00:17-04:00",
+            "published_date": "2023-07-27T07:00:17-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Movies",
+                "Happiness for Beginners (Movie)",
+                "Happiness for Beginners: A Novel (Book)"
+            ],
+            "org_facet": [],
+            "per_facet": [
+                "Kemper, Ellie",
+                "Center, Katherine (1972- )",
+                "Grimes, Luke (1984- )",
+                "Wight, Vicky (Film Director)"
+            ],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2023/07/27/multimedia/27happiness-review-qckz/27happiness-review-qckz-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Ellie Kemper and Luke Grimes in \u201cHappiness for Beginners.\u201d",
+                    "copyright": "Barbara Nitke/Netflix"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2023/07/27/multimedia/27happiness-review-qckz/27happiness-review-qckz-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Ellie Kemper and Luke Grimes in \u201cHappiness for Beginners.\u201d",
+                    "copyright": "Barbara Nitke/Netflix"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2023/07/27/multimedia/27happiness-review-qckz/27happiness-review-qckz-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Ellie Kemper and Luke Grimes in \u201cHappiness for Beginners.\u201d",
+                    "copyright": "Barbara Nitke/Netflix"
+                }
+            ],
+            "short_url": "https://nyti.ms/3pYXlNf"
+        },
+        {
+            "section": "movies",
+            "subsection": "",
+            "title": "\u2018Zoey 102\u2019 Review: Grown Up, Washed Up",
+            "abstract": "15 Years after her Nickelodeon show, \u201cZoey 101,\u201d ended, Jamie Lynn Spears returns in a serviceable movie sequel.",
+            "url": "https://www.nytimes.com/2023/07/27/movies/zoey-102-review.html",
+            "uri": "nyt://article/58cd4d92-78bd-53b4-a662-9abff839732c",
+            "byline": "By Brandon Yu",
+            "item_type": "Article",
+            "updated_date": "2023-07-27T17:25:42-04:00",
+            "created_date": "2023-07-27T07:00:15-04:00",
+            "published_date": "2023-07-27T07:00:15-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Movies",
+                "Zoey 102 (Movie)"
+            ],
+            "org_facet": [],
+            "per_facet": [
+                "Spears, Jamie Lynn",
+                "Hower, Nancy",
+                "Schneider, Dan (1966- )"
+            ],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2023/07/27/multimedia/27zoey-review-qkhz/27zoey-review-qkhz-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Jamie Lynn Spears in \u201cZoey 102.\u201d",
+                    "copyright": "Dana Hawley/Paramount+"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2023/07/27/multimedia/27zoey-review-qkhz/27zoey-review-qkhz-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Jamie Lynn Spears in \u201cZoey 102.\u201d",
+                    "copyright": "Dana Hawley/Paramount+"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2023/07/27/multimedia/27zoey-review-qkhz/27zoey-review-qkhz-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Jamie Lynn Spears in \u201cZoey 102.\u201d",
+                    "copyright": "Dana Hawley/Paramount+"
+                }
+            ],
+            "short_url": "https://nyti.ms/452WPwl"
+        },
+        {
+            "section": "movies",
+            "subsection": "",
+            "title": "\u2018North Circular\u2019 Review: A Musical Tour Through Dublin",
+            "abstract": "In this black-and-white documentary by Luke McManus, the camera finds stories and songs near a road north of the city\u2019s center.",
+            "url": "https://www.nytimes.com/2023/07/27/movies/north-circular-review.html",
+            "uri": "nyt://article/8b191f42-5c8a-5a26-ae35-53a9af3c1fec",
+            "byline": "By Ben Kenigsberg",
+            "item_type": "Article",
+            "updated_date": "2023-07-27T17:26:58-04:00",
+            "created_date": "2023-07-27T07:00:11-04:00",
+            "published_date": "2023-07-27T07:00:11-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Documentary Films and Programs",
+                "Folk Music",
+                "North Circular (Movie)"
+            ],
+            "org_facet": [],
+            "per_facet": [
+                "McManus, Luke (Film Director)"
+            ],
+            "geo_facet": [
+                "Dublin (Ireland)"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2023/07/27/multimedia/27north-circular-review-lfgk/27north-circular-review-lfgk-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1352,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "From left, the folk singer and musician John Francis Flynn with fellow singers Eoghan \u00d3 Ceannabh\u00e1in, Killian O\u2019Donnell and Lisa O\u2019Neill, in \u201cNorth Circular,\u201d a documentary film directed by Luke McManus.",
+                    "copyright": "Lightbox"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2023/07/27/multimedia/27north-circular-review-lfgk/27north-circular-review-lfgk-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "From left, the folk singer and musician John Francis Flynn with fellow singers Eoghan \u00d3 Ceannabh\u00e1in, Killian O\u2019Donnell and Lisa O\u2019Neill, in \u201cNorth Circular,\u201d a documentary film directed by Luke McManus.",
+                    "copyright": "Lightbox"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2023/07/27/multimedia/27north-circular-review-lfgk/27north-circular-review-lfgk-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "From left, the folk singer and musician John Francis Flynn with fellow singers Eoghan \u00d3 Ceannabh\u00e1in, Killian O\u2019Donnell and Lisa O\u2019Neill, in \u201cNorth Circular,\u201d a documentary film directed by Luke McManus.",
+                    "copyright": "Lightbox"
+                }
+            ],
+            "short_url": "https://nyti.ms/3QbUs6b"
+        },
+        {
+            "section": "movies",
+            "subsection": "",
+            "title": "\u2018The Beasts\u2019 Review: Bad Neighbors",
+            "abstract": "Class tensions and masculine power games abound in this engrossing rural thriller from Spain.",
+            "url": "https://www.nytimes.com/2023/07/27/movies/the-beasts-review.html",
+            "uri": "nyt://article/78f17190-d54c-5df3-9e34-16794119f0a1",
+            "byline": "By Beatrice Loayza",
+            "item_type": "Article",
+            "updated_date": "2023-07-27T17:26:31-04:00",
+            "created_date": "2023-07-27T07:00:10-04:00",
+            "published_date": "2023-07-27T07:00:10-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Movies",
+                "The Beasts (Movie)"
+            ],
+            "org_facet": [],
+            "per_facet": [
+                "Sorogoyen, Rodrigo"
+            ],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2023/07/26/multimedia/beasts1-vgmw/beasts1-vgmw-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 844,
+                    "width": 1500,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Denis M\u00e9nochet and Marina Fo\u00efs in \u201cThe Beasts.\u201d",
+                    "copyright": "Greenwich Entertainment"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2023/07/26/multimedia/beasts1-vgmw/beasts1-vgmw-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Denis M\u00e9nochet and Marina Fo\u00efs in \u201cThe Beasts.\u201d",
+                    "copyright": "Greenwich Entertainment"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2023/07/26/multimedia/beasts1-vgmw/beasts1-vgmw-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Denis M\u00e9nochet and Marina Fo\u00efs in \u201cThe Beasts.\u201d",
+                    "copyright": "Greenwich Entertainment"
+                }
+            ],
+            "short_url": "https://nyti.ms/3Qa4BjX"
+        },
+        {
+            "section": "movies",
+            "subsection": "",
+            "title": "\u2018Susie Searches\u2019 Review: The Sleuth Is Out There",
+            "abstract": "Kiersey Clemons plays an amateur detective with a true-crime podcast and a secret in this quirky mystery movie.",
+            "url": "https://www.nytimes.com/2023/07/27/movies/susie-searches-review.html",
+            "uri": "nyt://article/cea6bcf8-26e2-5ddc-a3ae-66ad1506b245",
+            "byline": "By Natalia Winkelman",
+            "item_type": "Article",
+            "updated_date": "2023-07-27T17:26:41-04:00",
+            "created_date": "2023-07-27T07:00:03-04:00",
+            "published_date": "2023-07-27T07:00:03-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Movies",
+                "Susie Searches (Movie)"
+            ],
+            "org_facet": [],
+            "per_facet": [
+                "Clemons, Kiersey (1993- )",
+                "Kargman, Sophie"
+            ],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2023/07/26/multimedia/susie1-bkql/susie1-bkql-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1025,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Kiersey Clemons in \u201cSusie Searches.\u201d",
+                    "copyright": "Vertical Entertainment"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2023/07/26/multimedia/susie1-bkql/susie1-bkql-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Kiersey Clemons in \u201cSusie Searches.\u201d",
+                    "copyright": "Vertical Entertainment"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2023/07/26/multimedia/susie1-bkql/susie1-bkql-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Kiersey Clemons in \u201cSusie Searches.\u201d",
+                    "copyright": "Vertical Entertainment"
+                }
+            ],
+            "short_url": "https://nyti.ms/45112AS"
+        },
+        {
+            "section": "movies",
+            "subsection": "",
+            "title": "Bo Goldman, Oscar-Winning Screenwriter, Dies at 90",
+            "abstract": "He was a struggling writer when he won an Academy Award for \u201cOne Flew Over the Cuckoo\u2019s Nest.\u201d He won another for \u201cMelvin and Howard.\u201d",
+            "url": "https://www.nytimes.com/2023/07/26/movies/bo-goldman-dead.html",
+            "uri": "nyt://article/96a12594-3ecb-57ae-bb30-6da062862510",
+            "byline": "By Neil Genzlinger",
+            "item_type": "Article",
+            "updated_date": "2023-07-27T17:04:59-04:00",
+            "created_date": "2023-07-26T16:02:52-04:00",
+            "published_date": "2023-07-26T16:02:52-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Deaths (Obituaries)",
+                "Movies",
+                "Writing and Writers",
+                "Academy Awards (Oscars)",
+                "One Flew Over the Cuckoo's Nest (Movie)",
+                "Melvin and Howard (Movie)"
+            ],
+            "org_facet": [],
+            "per_facet": [
+                "Goldman, Bo"
+            ],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2023/07/27/obituaries/26Goldman1-print1/26Goldman1-print1-superJumbo-v2.jpg",
+                    "format": "Super Jumbo",
+                    "height": 2048,
+                    "width": 1398,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The screenwriter Bo Goldman at the 1976 Academy Awards, accepting the award for his work on \u201cOne Flew Over the Cuckoo\u2019s Nest.\u201d",
+                    "copyright": "ABC Photo Archives/Disney, via Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2023/07/27/obituaries/26Goldman1-print1/26Goldman1-print1-threeByTwoSmallAt2X-v2.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The screenwriter Bo Goldman at the 1976 Academy Awards, accepting the award for his work on \u201cOne Flew Over the Cuckoo\u2019s Nest.\u201d",
+                    "copyright": "ABC Photo Archives/Disney, via Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2023/07/27/obituaries/26Goldman1-print1/26Goldman1-print1-thumbLarge-v2.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The screenwriter Bo Goldman at the 1976 Academy Awards, accepting the award for his work on \u201cOne Flew Over the Cuckoo\u2019s Nest.\u201d",
+                    "copyright": "ABC Photo Archives/Disney, via Getty Images"
+                }
+            ],
+            "short_url": "https://nyti.ms/3qeaNg2"
+        },
+        {
+            "section": "arts",
+            "subsection": "",
+            "title": "Kevin Spacey Found Not Guilty of Sexual Assault",
+            "abstract": "A British jury on Wednesday found the actor not guilty of nine charges.",
+            "url": "https://www.nytimes.com/2023/07/26/arts/kevin-spacey-verdict-not-guilty.html",
+            "uri": "nyt://article/5d7d6204-d04e-5e79-a5b2-78c857c196b7",
+            "byline": "By Alex Marshall",
+            "item_type": "Article",
+            "updated_date": "2023-07-26T23:02:13-04:00",
+            "created_date": "2023-07-26T10:07:09-04:00",
+            "published_date": "2023-07-26T10:07:09-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Sexual Harassment",
+                "Sex Crimes",
+                "Decisions and Verdicts",
+                "vis-video"
+            ],
+            "org_facet": [],
+            "per_facet": [
+                "Spacey, Kevin"
+            ],
+            "geo_facet": [
+                "London (England)"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2023/07/27/multimedia/26SPACEY-VERDICT02-ckbq/26SPACEY-VERDICT02-ckbq-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1366,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "\u201cI am humbled by the outcome,\u201d Kevin Spacey told reporters outside the courthouse on Wednesday.",
+                    "copyright": "Susannah Ireland/Reuters"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2023/07/27/multimedia/26SPACEY-VERDICT02-ckbq/26SPACEY-VERDICT02-ckbq-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "\u201cI am humbled by the outcome,\u201d Kevin Spacey told reporters outside the courthouse on Wednesday.",
+                    "copyright": "Susannah Ireland/Reuters"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2023/07/27/multimedia/26SPACEY-VERDICT02-ckbq/26SPACEY-VERDICT02-ckbq-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "\u201cI am humbled by the outcome,\u201d Kevin Spacey told reporters outside the courthouse on Wednesday.",
+                    "copyright": "Susannah Ireland/Reuters"
+                }
+            ],
+            "short_url": "https://nyti.ms/43K4nTV"
+        },
+        {
+            "section": "movies",
+            "subsection": "",
+            "title": "\u2018Annihilation,\u2019 \u2018Support the Girls\u2019 and More Streaming Gems",
+            "abstract": "This month\u2019s rundown of off-the-radar picks on your subscription streaming services includes indies of all stripes, plus three documentary explorations of our changing media landscape.",
+            "url": "https://www.nytimes.com/2023/07/26/movies/annihilation-support-the-girls-streaming-movies.html",
+            "uri": "nyt://article/758a5c79-4ac3-5faf-aa44-e1a8fdbed818",
+            "byline": "By Jason Bailey",
+            "item_type": "Article",
+            "updated_date": "2023-07-27T17:27:33-04:00",
+            "created_date": "2023-07-26T07:00:02-04:00",
+            "published_date": "2023-07-26T07:00:02-04:00",
+            "material_type_facet": "",
+            "kicker": "Beyond the Algorithm",
+            "des_facet": [
+                "Movies",
+                "Annihilation (Movie)",
+                "On the Count of Three (Movie)",
+                "Slow West (Movie)",
+                "Support the Girls (Movie)",
+                "Violet & Daisy (Movie)",
+                "Voyeur (Movie)",
+                "White Bird in a Blizzard (Movie)",
+                "VHS Massacre (Movie)",
+                "VHS Massacre Too (Movie)"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2023/07/28/multimedia/annihilation1-ktmq/annihilation1-ktmq-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1150,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Natalie Portman in \u201cAnnihilation.\u201d",
+                    "copyright": "Paramount Pictures"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2023/07/28/multimedia/annihilation1-ktmq/annihilation1-ktmq-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 399,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Natalie Portman in \u201cAnnihilation.\u201d",
+                    "copyright": "Paramount Pictures"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2023/07/28/multimedia/annihilation1-ktmq/annihilation1-ktmq-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Natalie Portman in \u201cAnnihilation.\u201d",
+                    "copyright": "Paramount Pictures"
+                }
+            ],
+            "short_url": "https://nyti.ms/3Khd4Ot"
+        },
+        {
+            "section": "business",
+            "subsection": "media",
+            "title": "Hollywood Strike Leaves Influencers Sidelined and Confused",
+            "abstract": "Despite not being in the actors\u2019 union, many content creators are passing up deals to promote films or TV shows because they don\u2019t want to be barred from the guild or face online vitriol.",
+            "url": "https://www.nytimes.com/2023/07/26/business/media/actors-strike-influencers.html",
+            "uri": "nyt://article/36ed04a1-8bbc-5f61-b49b-d5fca6b74fa6",
+            "byline": "By Sapna Maheshwari and Madison Malone Kircher",
+            "item_type": "Article",
+            "updated_date": "2023-07-27T06:58:03-04:00",
+            "created_date": "2023-07-26T03:00:11-04:00",
+            "published_date": "2023-07-26T03:00:11-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Strikes",
+                "Movies",
+                "Television",
+                "Social Media",
+                "Advertising and Marketing",
+                "Video Recordings, Downloads and Streaming",
+                "Actors and Actresses",
+                "Writing and Writers",
+                "Careers and Professions",
+                "Organized Labor"
+            ],
+            "org_facet": [
+                "SAG-AFTRA",
+                "Alliance of Motion Picture and Television Producers",
+                "Walt Disney Company",
+                "Hulu.com",
+                "TodayTix Inc",
+                "TikTok (ByteDance)"
+            ],
+            "per_facet": [],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2023/07/25/multimedia/25sag-influencers-jqpb/25sag-influencers-jqpb-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1366,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Because of the actors\u2019 and writers\u2019 strikes, Deanna Giulietti has turned down promotional work recently worth thousands of dollars.",
+                    "copyright": "Dave Sanders for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2023/07/25/multimedia/25sag-influencers-jqpb/25sag-influencers-jqpb-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Because of the actors\u2019 and writers\u2019 strikes, Deanna Giulietti has turned down promotional work recently worth thousands of dollars.",
+                    "copyright": "Dave Sanders for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2023/07/25/multimedia/25sag-influencers-jqpb/25sag-influencers-jqpb-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Because of the actors\u2019 and writers\u2019 strikes, Deanna Giulietti has turned down promotional work recently worth thousands of dollars.",
+                    "copyright": "Dave Sanders for The New York Times"
+                }
+            ],
+            "short_url": "https://nyti.ms/3O9G5wP"
+        },
+        {
+            "section": "movies",
+            "subsection": "",
+            "title": "Greta Gerwig on the Blockbuster \u2018Barbie\u2019 Opening (and How She Got Away With It)",
+            "abstract": "\u201cI think it was a particular ripple in the universe that allowed it to happen,\u201d the director said on Tuesday of her highly anticipated movie making a staggering $162 million in its first weekend.",
+            "url": "https://www.nytimes.com/2023/07/25/movies/greta-gerwig-barbie-movie.html",
+            "uri": "nyt://article/56eacc87-b58a-5c80-b4d6-459579c2f435",
+            "byline": "By Kyle Buchanan",
+            "item_type": "Article",
+            "updated_date": "2023-07-26T23:01:45-04:00",
+            "created_date": "2023-07-25T18:01:12-04:00",
+            "published_date": "2023-07-25T18:01:12-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Movies",
+                "Barbie (Movie)",
+                "Box Office Sales",
+                "Writing and Writers",
+                "Content Type: Personal Profile"
+            ],
+            "org_facet": [],
+            "per_facet": [
+                "Gerwig, Greta"
+            ],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2023/07/25/multimedia/25barbie-gerwig-02-gzfc/25barbie-gerwig-02-gzfc-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1358,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Greta Gerwig, here in New York in 2022, spent Thursday and Friday spot-checking different theaters in the city. \u201cIt\u2019s been amazing to walk around and see people in pink,\u201d she said on Tuesday.",
+                    "copyright": "Clement Pascal for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2023/07/25/multimedia/25barbie-gerwig-02-gzfc/25barbie-gerwig-02-gzfc-threeByTwoSmallAt2X-v2.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Greta Gerwig, here in New York in 2022, spent Thursday and Friday spot-checking different theaters in the city. \u201cIt\u2019s been amazing to walk around and see people in pink,\u201d she said on Tuesday.",
+                    "copyright": "Clement Pascal for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2023/07/25/multimedia/25barbie-gerwig-02-gzfc/25barbie-gerwig-02-gzfc-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Greta Gerwig, here in New York in 2022, spent Thursday and Friday spot-checking different theaters in the city. \u201cIt\u2019s been amazing to walk around and see people in pink,\u201d she said on Tuesday.",
+                    "copyright": "Clement Pascal for The New York Times"
+                }
+            ],
+            "short_url": "https://nyti.ms/3OujkoF"
+        },
+        {
+            "section": "movies",
+            "subsection": "",
+            "title": "Venice Film Festival Lineup Largely Unscathed by Hollywood Strikes",
+            "abstract": "Movies from Bradley Cooper, Sofia Coppola and Ava DuVernay will debut at this year\u2019s event, despite the industry shutdown.",
+            "url": "https://www.nytimes.com/2023/07/25/movies/venice-film-festival-actors-strike.html",
+            "uri": "nyt://article/d3ac7cb9-15a7-51b6-8e13-60681f9e334e",
+            "byline": "By Alex Marshall",
+            "item_type": "Article",
+            "updated_date": "2023-07-25T23:31:12-04:00",
+            "created_date": "2023-07-25T09:30:30-04:00",
+            "published_date": "2023-07-25T09:30:30-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Movies",
+                "Venice International Film Festival",
+                "Actors and Actresses",
+                "Ferrari (Movie)",
+                "Hit Man (Movie)",
+                "Maestro (Movie)",
+                "Priscilla (Movie)"
+            ],
+            "org_facet": [
+                "SAG-AFTRA"
+            ],
+            "per_facet": [
+                "Allen, Woody",
+                "Anderson, Wes",
+                "Coleman, Zendaya",
+                "Cooper, Bradley",
+                "Coppola, Sofia",
+                "Cruz, Penelope",
+                "Driver, Adam",
+                "Fassbender, Michael",
+                "Swinton, Tilda",
+                "Sutherland, Kiefer",
+                "Stone, Emma",
+                "Scott, Travis (1992- )",
+                "Ruffalo, Mark",
+                "Polanski, Roman",
+                "Mann, Michael",
+                "Linklater, Richard",
+                "Lanthimos, Yorgos",
+                "Friedkin, William",
+                "Fincher, David",
+                "Dafoe, Willem"
+            ],
+            "geo_facet": [
+                "Italy"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2023/07/26/multimedia/25venice-lineup-qbgp/25venice-lineup-qbgp-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1354,
+                    "width": 1820,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Bradley Cooper as Leonard Bernstein in \u201cMaestro,\u201d which will premiere at this year\u2019s Venice Film Festival. It is unclear if Hollywood stars like Cooper will walk the festival\u2019s red carpet as usual.",
+                    "copyright": "Amblin Entertainment"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2023/07/26/multimedia/25venice-lineup-qbgp/25venice-lineup-qbgp-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Bradley Cooper as Leonard Bernstein in \u201cMaestro,\u201d which will premiere at this year\u2019s Venice Film Festival. It is unclear if Hollywood stars like Cooper will walk the festival\u2019s red carpet as usual.",
+                    "copyright": "Amblin Entertainment"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2023/07/26/multimedia/25venice-lineup-qbgp/25venice-lineup-qbgp-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Bradley Cooper as Leonard Bernstein in \u201cMaestro,\u201d which will premiere at this year\u2019s Venice Film Festival. It is unclear if Hollywood stars like Cooper will walk the festival\u2019s red carpet as usual.",
+                    "copyright": "Amblin Entertainment"
+                }
+            ],
+            "short_url": "https://nyti.ms/3O6aig7"
+        },
+        {
+            "section": "theater",
+            "subsection": "",
+            "title": "Wrestling With His Past. And an Animatronic Shark.",
+            "abstract": "Ian Shaw plays his father, Robert Shaw, in \u201cThe Shark Is Broken,\u201d a comedy based on the troubled production of the 1975 film \u201cJaws.\u201d",
+            "url": "https://www.nytimes.com/2023/07/25/theater/the-shark-is-broken-shaw.html",
+            "uri": "nyt://article/e69e6dda-7c6e-5f95-ada2-de1b7c0c0886",
+            "byline": "By Dave Itzkoff",
+            "item_type": "Article",
+            "updated_date": "2023-07-29T22:38:26-04:00",
+            "created_date": "2023-07-25T05:01:53-04:00",
+            "published_date": "2023-07-25T05:01:53-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Theater",
+                "Theater (Broadway)",
+                "The Shark Is Broken (Play)",
+                "Jaws (Movie)",
+                "Content Type: Personal Profile"
+            ],
+            "org_facet": [],
+            "per_facet": [
+                "Shaw, Ian (Playwright)",
+                "Shaw, Robert (1927-78)",
+                "Masterson, Guy (Theater Director)",
+                "Brightman, Alex (Actor)",
+                "Donnell, Colin"
+            ],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2023/07/30/multimedia/30shark-01-bkgl/30shark-01-bkgl-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 2048,
+                    "width": 1930,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "\u201cYou still have to have the conversation about your validity in comparison to your father,\u201d Ian Shaw said. \u201cThe final piece of the puzzle to getting rid of the baggage has, peculiarly, been to walk in his shoes.\u201d",
+                    "copyright": "Evelyn Freja for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2023/07/30/multimedia/30shark-01-bkgl/30shark-01-bkgl-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "\u201cYou still have to have the conversation about your validity in comparison to your father,\u201d Ian Shaw said. \u201cThe final piece of the puzzle to getting rid of the baggage has, peculiarly, been to walk in his shoes.\u201d",
+                    "copyright": "Evelyn Freja for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2023/07/30/multimedia/30shark-01-bkgl/30shark-01-bkgl-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "\u201cYou still have to have the conversation about your validity in comparison to your father,\u201d Ian Shaw said. \u201cThe final piece of the puzzle to getting rid of the baggage has, peculiarly, been to walk in his shoes.\u201d",
+                    "copyright": "Evelyn Freja for The New York Times"
+                }
+            ],
+            "short_url": "https://nyti.ms/472zzAm"
+        },
+        {
+            "section": "nyregion",
+            "subsection": "",
+            "title": "Pete Davidson Plans F.D.N.Y. Community Service to Resolve Crash Case",
+            "abstract": "The former \u201cSaturday Night Live\u201d cast member faced a reckless driving charge in California. His father, a New York City firefighter, was killed responding to the Sept. 11, 2001, attacks.",
+            "url": "https://www.nytimes.com/2023/07/24/nyregion/pete-davidson-reckless-driving-community-service.html",
+            "uri": "nyt://article/bdeb4228-99cc-56ec-8239-66741be96b30",
+            "byline": "By Ed Shanahan",
+            "item_type": "Article",
+            "updated_date": "2023-07-26T23:04:46-04:00",
+            "created_date": "2023-07-24T21:55:32-04:00",
+            "published_date": "2023-07-24T21:55:32-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Drunken and Reckless Driving"
+            ],
+            "org_facet": [
+                "Fire Department (NYC)"
+            ],
+            "per_facet": [
+                "Davidson, Pete (1993- )"
+            ],
+            "geo_facet": [
+                "Los Angeles (Calif)",
+                "Staten Island (NYC)"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2023/07/24/lens/24davidson-01/24davidson-01-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Pete Davidson at the premiere of his streaming show \u201cBupkis\" in April. ",
+                    "copyright": "Roy Rochlin/Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2023/07/24/lens/24davidson-01/24davidson-01-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Pete Davidson at the premiere of his streaming show \u201cBupkis\" in April. ",
+                    "copyright": "Roy Rochlin/Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2023/07/24/lens/24davidson-01/24davidson-01-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Pete Davidson at the premiere of his streaming show \u201cBupkis\" in April. ",
+                    "copyright": "Roy Rochlin/Getty Images"
+                }
+            ],
+            "short_url": "https://nyti.ms/3OslXax"
+        },
+        {
+            "section": "arts",
+            "subsection": "music",
+            "title": "How the Indigo Girls Brought Barbie \u2018Closer to Fine\u2019",
+            "abstract": "A 1989 song about soul searching has maintained cultural relevance for three decades, but the band has also long been the target of homophobic jokes. Fans are savoring a moment of vindication.",
+            "url": "https://www.nytimes.com/2023/07/24/arts/music/barbie-indigo-girls-closer-to-fine.html",
+            "uri": "nyt://article/22cc75bf-fb1f-5a59-ae02-7ce332ba366d",
+            "byline": "By Trish Bendix",
+            "item_type": "Article",
+            "updated_date": "2023-07-26T00:33:30-04:00",
+            "created_date": "2023-07-24T12:51:40-04:00",
+            "published_date": "2023-07-24T12:51:40-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Barbie (Movie)",
+                "Closer to Fine (Song)",
+                "Folk Music",
+                "Homosexuality and Bisexuality",
+                "Movies",
+                "Women and Girls"
+            ],
+            "org_facet": [
+                "Indigo Girls"
+            ],
+            "per_facet": [],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2023/07/25/arts/24BARBIE-INDIGOGIRLS/24BARBIE-INDIGOGIRLS-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1375,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The Indigo Girls in 1989: Emily Saliers, left, and Amy Ray. Their song \u201cCloser to Fine\u201d is heard three times in the new \u201cBarbie\u201d movie.",
+                    "copyright": "Paul Natkin/WireImage, via Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2023/07/25/arts/24BARBIE-INDIGOGIRLS/24BARBIE-INDIGOGIRLS-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The Indigo Girls in 1989: Emily Saliers, left, and Amy Ray. Their song \u201cCloser to Fine\u201d is heard three times in the new \u201cBarbie\u201d movie.",
+                    "copyright": "Paul Natkin/WireImage, via Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2023/07/25/arts/24BARBIE-INDIGOGIRLS/24BARBIE-INDIGOGIRLS-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The Indigo Girls in 1989: Emily Saliers, left, and Amy Ray. Their song \u201cCloser to Fine\u201d is heard three times in the new \u201cBarbie\u201d movie.",
+                    "copyright": "Paul Natkin/WireImage, via Getty Images"
+                }
+            ],
+            "short_url": "https://nyti.ms/3YkW5Rn"
+        },
+        {
+            "section": "movies",
+            "subsection": "",
+            "title": "Thieves Make Off With \u2018Beetlejuice 2\u2019 Props",
+            "abstract": "A 150-pound art sculpture and a decorated lamppost were taken from the movie set in Vermont, the authorities said.",
+            "url": "https://www.nytimes.com/2023/07/24/movies/beetlejuice-2-set-thefts.html",
+            "uri": "nyt://article/4a059f55-4599-5cfc-82b3-e8c8f553cd7a",
+            "byline": "By Derrick Bryson Taylor",
+            "item_type": "Article",
+            "updated_date": "2023-07-24T15:53:59-04:00",
+            "created_date": "2023-07-24T10:13:13-04:00",
+            "published_date": "2023-07-24T10:13:13-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Movies",
+                "Robberies and Thefts",
+                "Beetlejuice 2 (Movie)"
+            ],
+            "org_facet": [
+                "Warner Brothers"
+            ],
+            "per_facet": [],
+            "geo_facet": [
+                "East Corinth (Vt)"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2023/07/24/us/24xp-beetlejuice1/24xp-beetlejuice1-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 922,
+                    "width": 1050,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A sculpture that was stolen from the set of the movie \u201cBeetlejuice 2,\u201d which is being filmed in Vermont.",
+                    "copyright": "Vermont State Police"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2023/07/24/us/24xp-beetlejuice1/24xp-beetlejuice1-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A sculpture that was stolen from the set of the movie \u201cBeetlejuice 2,\u201d which is being filmed in Vermont.",
+                    "copyright": "Vermont State Police"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2023/07/24/us/24xp-beetlejuice1/24xp-beetlejuice1-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A sculpture that was stolen from the set of the movie \u201cBeetlejuice 2,\u201d which is being filmed in Vermont.",
+                    "copyright": "Vermont State Police"
+                }
+            ],
+            "short_url": "https://nyti.ms/3Od9iHg"
+        },
+        {
+            "section": "movies",
+            "subsection": "",
+            "title": "Cary Elwes Is Soothed By Grunge and a Maltese Poodle",
+            "abstract": "The actor, who appears in the latest \u201cMission: Impossible,\u201d picked up a deep interest in Napoleon\u2019s life from Stanley Kubrick.",
+            "url": "https://www.nytimes.com/2023/07/24/movies/cary-elwes-mission-impossible.html",
+            "uri": "nyt://article/e8bf7740-e0dd-5e94-b52c-b5dab6fa91d6",
+            "byline": "By Chris Kornelis",
+            "item_type": "Article",
+            "updated_date": "2023-07-27T16:19:47-04:00",
+            "created_date": "2023-07-24T05:00:14-04:00",
+            "published_date": "2023-07-24T05:00:14-04:00",
+            "material_type_facet": "",
+            "kicker": "My Ten",
+            "des_facet": [
+                "Content Type: Personal Profile",
+                "Actors and Actresses",
+                "Movies",
+                "Mission: Impossible -- Dead Reckoning Part One (Movie)"
+            ],
+            "org_facet": [],
+            "per_facet": [
+                "Elwes, Cary"
+            ],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2023/07/30/arts/30Myten-Elwes/30Myten-Elwes-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1317,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "\u201cYou can\u2019t put a price on being in a darkened room with strangers, watching a movie and all of you experiencing the same emotions together,\u201d Cary Elwes said.",
+                    "copyright": "Amr Alfiky/Reuters"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2023/07/30/arts/30Myten-Elwes/30Myten-Elwes-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "\u201cYou can\u2019t put a price on being in a darkened room with strangers, watching a movie and all of you experiencing the same emotions together,\u201d Cary Elwes said.",
+                    "copyright": "Amr Alfiky/Reuters"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2023/07/30/arts/30Myten-Elwes/30Myten-Elwes-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "\u201cYou can\u2019t put a price on being in a darkened room with strangers, watching a movie and all of you experiencing the same emotions together,\u201d Cary Elwes said.",
+                    "copyright": "Amr Alfiky/Reuters"
+                }
+            ],
+            "short_url": "https://nyti.ms/46YLeAm"
+        },
+        {
+            "section": "theater",
+            "subsection": "",
+            "title": "Buckle Your (DeLorean) Seatbelt: \u2018Back to the Future\u2019 Lands on Broadway",
+            "abstract": "In adapting a beloved franchise for the stage, the creative team sought to develop the story for new audiences while remaining true to the spirit of the films.",
+            "url": "https://www.nytimes.com/2023/07/24/theater/back-to-the-future-broadway.html",
+            "uri": "nyt://article/8d394a97-f774-5a75-94bd-34707a154ee7",
+            "byline": "By Dave Itzkoff",
+            "item_type": "Article",
+            "updated_date": "2023-07-24T12:54:07-04:00",
+            "created_date": "2023-07-24T01:00:27-04:00",
+            "published_date": "2023-07-24T01:00:27-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Theater",
+                "Back to The Future: The Musical (Play)",
+                "Back to the Future (Movie)",
+                "Theater (Broadway)"
+            ],
+            "org_facet": [
+                "Winter Garden Theater (Manhattan, NY)"
+            ],
+            "per_facet": [
+                "Ballard, Glen",
+                "Gale, Bob",
+                "Rando, John",
+                "Zemeckis, Robert"
+            ],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2023/07/19/multimedia/00back-to-the-future-15-qlmv/00back-to-the-future-15-qlmv-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 2048,
+                    "width": 1363,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The time-traveling DeLorean at the Winter Garden Theater in Manhattan.",
+                    "copyright": "Nina Westervelt for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2023/07/19/multimedia/00back-to-the-future-15-qlmv/00back-to-the-future-15-qlmv-threeByTwoSmallAt2X-v2.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The time-traveling DeLorean at the Winter Garden Theater in Manhattan.",
+                    "copyright": "Nina Westervelt for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2023/07/19/multimedia/00back-to-the-future-15-qlmv/00back-to-the-future-15-qlmv-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The time-traveling DeLorean at the Winter Garden Theater in Manhattan.",
+                    "copyright": "Nina Westervelt for The New York Times"
+                }
+            ],
+            "short_url": "https://nyti.ms/3O1QDhn"
+        },
+        {
+            "section": "movies",
+            "subsection": "",
+            "title": "Pretty (Devoted) in Pink: \u2018Barbie\u2019 Hordes Spill Into Theaters",
+            "abstract": "Fans nationwide shopped their closets for the rosiest interpretations of the Barbie ethos: sparkly bags, open-toed pumps, stretchy headbands and more.",
+            "url": "https://www.nytimes.com/2023/07/23/movies/barbie-fans-outfits.html",
+            "uri": "nyt://article/0d7a99f1-89f5-5101-8b2b-1727088e8ca0",
+            "byline": "By Christopher Kuo",
+            "item_type": "Article",
+            "updated_date": "2023-07-23T23:36:07-04:00",
+            "created_date": "2023-07-23T13:52:13-04:00",
+            "published_date": "2023-07-23T13:52:13-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Movies",
+                "Barbie (Doll)",
+                "Barbie (Movie)"
+            ],
+            "org_facet": [],
+            "per_facet": [
+                "Gerwig, Greta"
+            ],
+            "geo_facet": [
+                "Kips Bay (Manhattan, NY)",
+                "Upper West Side (Manhattan, NY)"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2023/07/23/multimedia/23barbie-moviegoers-01-bqzt/23barbie-moviegoers-01-bqzt-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 2048,
+                    "width": 1366,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Jennimai Nguyen, 25, and Livi Empson, 24, pose for a portrait in Barbie-inspired outfits outside the AMC Kips Bay theater in Manhattan on July 20.",
+                    "copyright": "Maansi Srivastava/The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2023/07/23/multimedia/23barbie-moviegoers-01-bqzt/23barbie-moviegoers-01-bqzt-threeByTwoSmallAt2X-v2.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Jennimai Nguyen, 25, and Livi Empson, 24, pose for a portrait in Barbie-inspired outfits outside the AMC Kips Bay theater in Manhattan on July 20.",
+                    "copyright": "Maansi Srivastava/The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2023/07/23/multimedia/23barbie-moviegoers-01-bqzt/23barbie-moviegoers-01-bqzt-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Jennimai Nguyen, 25, and Livi Empson, 24, pose for a portrait in Barbie-inspired outfits outside the AMC Kips Bay theater in Manhattan on July 20.",
+                    "copyright": "Maansi Srivastava/The New York Times"
+                }
+            ],
+            "short_url": "https://nyti.ms/3DwJPmR"
+        },
+        {
+            "section": "movies",
+            "subsection": "",
+            "title": "\u2018Barbie\u2019 Box Office to the World: The Pandemic Is Officially Over",
+            "abstract": "With the biggest revenues since 2019, \u201cBarbenheimer\u201d gives the usual franchises a run for their money, selling out even predawn screenings.",
+            "url": "https://www.nytimes.com/2023/07/23/movies/barbie-oppenheimer-box-office-numbers.html",
+            "uri": "nyt://article/22f1eb3e-12e2-58da-a229-3aecc8a4fc8e",
+            "byline": "By Brooks Barnes",
+            "item_type": "Article",
+            "updated_date": "2023-07-24T16:02:35-04:00",
+            "created_date": "2023-07-23T12:24:57-04:00",
+            "published_date": "2023-07-23T12:24:57-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Movies",
+                "Box Office Sales",
+                "Coronavirus (2019-nCoV)",
+                "Barbie (Movie)",
+                "Oppenheimer (Movie)"
+            ],
+            "org_facet": [
+                "Warner Brothers"
+            ],
+            "per_facet": [
+                "Gerwig, Greta",
+                "Nolan, Christopher"
+            ],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2023/07/22/multimedia/2023-07-23-barbeheimer-box-office-promo-index/2023-07-23-barbeheimer-box-office-promo-index-superJumbo-v4.png",
+                    "format": "Super Jumbo",
+                    "height": 1333,
+                    "width": 2000,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Christine Zhang"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2023/07/22/multimedia/2023-07-23-barbeheimer-box-office-promo-index/2023-07-23-barbeheimer-box-office-promo-index-threeByTwoSmallAt2X-v6.png",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Christine Zhang"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2023/07/22/multimedia/2023-07-23-barbeheimer-box-office-promo-index/2023-07-23-barbeheimer-box-office-promo-index-thumbLarge-v4.png",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Christine Zhang"
+                }
+            ],
+            "short_url": "https://nyti.ms/3Y2hvT4"
+        },
+        {
+            "section": "movies",
+            "subsection": "",
+            "title": "\u2018Barbenheimer\u2019 Is a Huge Hollywood Moment and Maybe the Last for a While",
+            "abstract": "The big launch of \u201cBarbie\u201d and \u201cOppenheimer\u201d should have been a celebratory moment, but an industry on pause has darkened the mood.",
+            "url": "https://www.nytimes.com/2023/07/21/movies/barbenheimer-strike.html",
+            "uri": "nyt://article/ec139396-bbe2-5146-91ab-0cbadaf7c87e",
+            "byline": "By Kyle Buchanan",
+            "item_type": "Article",
+            "updated_date": "2023-07-23T23:36:30-04:00",
+            "created_date": "2023-07-21T20:39:21-04:00",
+            "published_date": "2023-07-21T20:39:21-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Movies",
+                "Barbie (Movie)",
+                "Oppenheimer (Movie)",
+                "Strikes",
+                "Organized Labor",
+                "Box Office Sales"
+            ],
+            "org_facet": [
+                "SAG-AFTRA"
+            ],
+            "per_facet": [],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2023/07/21/multimedia/21wkd-ttd-barbenheimer2-gflb/21wkd-ttd-barbenheimer2-gflb-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1591,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Margot Robbie in \u201cBarbie\u201d and Cillian Murphy in \u201cOppenheimer\u201d will help bring hundreds of millions of dollars in box office receipts this weekend.",
+                    "copyright": "Warner Bros Pictures/Universal Pictures, via Associated Press"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2023/07/21/multimedia/21wkd-ttd-barbenheimer2-gflb/21wkd-ttd-barbenheimer2-gflb-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Margot Robbie in \u201cBarbie\u201d and Cillian Murphy in \u201cOppenheimer\u201d will help bring hundreds of millions of dollars in box office receipts this weekend.",
+                    "copyright": "Warner Bros Pictures/Universal Pictures, via Associated Press"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2023/07/21/multimedia/21wkd-ttd-barbenheimer2-gflb/21wkd-ttd-barbenheimer2-gflb-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Margot Robbie in \u201cBarbie\u201d and Cillian Murphy in \u201cOppenheimer\u201d will help bring hundreds of millions of dollars in box office receipts this weekend.",
+                    "copyright": "Warner Bros Pictures/Universal Pictures, via Associated Press"
+                }
+            ],
+            "short_url": "https://nyti.ms/46XM54g"
+        }
+    ]
+}
