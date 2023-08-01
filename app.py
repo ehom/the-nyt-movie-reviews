@@ -161,15 +161,6 @@ def view_news(title, articles):
 
 
 def view_collage(title, articles):
-    count = len(articles)
-
-    st.title(f"{title} ({count})")
-    st.markdown(ATTRIBUTION)
-
-    st.divider()
-
-    print("# of movie reviews:", len(articles))
-
     for index in range(0, len(articles), 5):
         columns = st.columns(5)
         slices = articles[index: index + 5]
@@ -184,23 +175,23 @@ def view_collage(title, articles):
 
 def movie_review_filter(article):
     if article['section'] != "movies":
-        return False 
+        return False
 
     if "Review" not in article['title']:
-        return False 
+        return False
     return True
 
 
 def critics_choice_filter(article):
     if article['section'] != "movies":
-        return False 
+        return False
 
     if "Review" not in article['title']:
         return False
 
     if "Critic" not in article['kicker']:
         return False
- 
+
     return True
 
 
@@ -221,26 +212,26 @@ def main():
 
         st.session_state['reviews'] = list(filter(movie_review_filter, st.session_state['articles']))
 
-        # TODO: Maybe better to same the indices instead of copying the articles to 
+        # TODO: Maybe better to same the indices instead of copying the articles to
         # each section of the session state
 
         st.session_state['news'] = list(filter(related_news_filter, st.session_state['articles']))
         st.session_state['critics'] = list(filter(critics_choice_filter, st.session_state['reviews']))
 
     # pp.pprint(st.session_state['reviews'])
-   
+
     radio_selection = None
- 
+
     with st.sidebar:
         st.header("The NYT Movie Reviews")
 
         radio_selection = st.radio("View", ["Movie Reviews", "Critic\u2019s Pick", "Related News", "Collage"])
 
-    if radio_selection == "Related News": 
+    if radio_selection == "Related News":
         view_news("Related News", st.session_state['news'])
     elif "Critic" in radio_selection:
         view_news("Critic\u2019s Pick", st.session_state['critics'])
-    elif  "Collage" in radio_selection:
+    elif "Collage" in radio_selection:
         view_collage("Collage", st.session_state["articles"])
     else:
         # view("Movie Reviews", st.session_state['reviews'])
@@ -249,4 +240,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-
