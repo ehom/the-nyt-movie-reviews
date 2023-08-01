@@ -1,5 +1,6 @@
 import re
 import time
+import random
 from calendar import timegm
 from datetime import datetime
 import streamlit as st
@@ -84,26 +85,25 @@ def prepare_text_for_annotation(list_of_people):
 
             people.append(" ")
 
-    print(people)
+    # print(people)
 
     return people
 
 
-def display(article):
-    # st.image(article['multimedia'][0]['url'])
-    # st.image(article['multimedia'][1]['url'])
+def display(article, include_persons=True, include_kicker=True):
     st.write(iso_to_how_long_ago(article['published_date']))
-    title = article['title']
-    url = article['url']
 
+    title, url = article['title'], article['url']
     text = f"[{title}]({url})"
     st.subheader(text)
+
     st.write(article['abstract'])
 
-    prepared_text = prepare_text_for_annotation(article['per_facet'])
-    annotated_text(prepared_text)
+    if include_persons:
+        prepared_text = prepare_text_for_annotation(article['per_facet'])
+        annotated_text(prepared_text)
 
-    if article['kicker']:
+    if include_kicker and article['kicker']:
         kicker = article['kicker']
         annotated_text((kicker, "", "#FFD700"))
 
@@ -136,38 +136,67 @@ def view(title, articles):
     st.markdown(ATTRIBUTION)
 
 
-def view_news(title, articles):
-    count = len(articles)
+def view_tabbed(title, articles):
+    st.title(title)
+    # st.markdown(ATTRIBUTION)
 
-    st.title(f"{title} ({count})")
-    st.markdown(ATTRIBUTION)
+    # st.divider()
 
-    st.divider()
+    num_picks = len(st.session_state['critics'])
+    num_related = len(st.session_state['news'])
+    critic_picks = f"Critic\u2019s Picks ({num_picks})"
+    movie_reviews = f"Movie Reviews ({len(articles)})"
+    related_news = f"Related News ({num_related})"
 
-    print("# of movie reviews:", len(articles))
+    tabs = st.tabs([critic_picks, movie_reviews, related_news])
+    with tabs[1]:
+        for article in articles:
+            columns = st.columns([4, 1])
 
-    for article in articles:
-        columns = st.columns([4, 1])
+            with columns[0]:
+                display(article)
 
-        with columns[0]:
-            display(article)
+            with columns[1]:
+                st.image(article['multimedia'][-1]['url'])
 
-        with columns[1]:
-            st.image(article['multimedia'][-1]['url'])
+            st.divider()
+    with tabs[0]:
+        for article in st.session_state['critics']:
+            columns = st.columns([4, 1])
 
-        st.divider()
+            with columns[0]:
+                display(article)
 
+            with columns[1]:
+                st.image(article['multimedia'][-1]['url'])
+
+            st.divider()
+    with tabs[2]:
+        for article in st.session_state['news']:
+            columns = st.columns([4, 1])
+
+            with columns[0]:
+                display(article, include_persons=False, include_kicker=False)
+
+            with columns[1]:
+                st.image(article['multimedia'][-1]['url'])
+
+            st.divider()
     st.markdown(ATTRIBUTION)
 
 
 def view_collage(title, articles):
+    image_indices = [i for i in range(len(articles))]
+    random.shuffle(image_indices)
+    print(image_indices)
     for index in range(0, len(articles), 5):
         columns = st.columns(5)
         slices = articles[index: index + 5]
 
         for slice_index, slice in enumerate(slices):
             with columns[slice_index]:
-                st.image(articles[index + slice_index]['multimedia'][-1]['url'])
+                actual_index = image_indices[index + slice_index]
+                st.image(articles[actual_index]['multimedia'][-1]['url'])
     st.divider()
 
     st.markdown(ATTRIBUTION)
@@ -200,7 +229,7 @@ def related_news_filter(article):
 
 
 def main():
-    st.set_page_config(page_title="The NYT Movie Reviews",
+    st.set_page_config(page_title="Movie Critic",
                        page_icon="\U0001F3A5",
                        layout="wide",
                        menu_items=menu_items)
@@ -212,7 +241,7 @@ def main():
 
         st.session_state['reviews'] = list(filter(movie_review_filter, st.session_state['articles']))
 
-        # TODO: Maybe better to same the indices instead of copying the articles to
+        # TODO: Maybe better to save the indices instead of copying the articles to
         # each section of the session state
 
         st.session_state['news'] = list(filter(related_news_filter, st.session_state['articles']))
@@ -223,19 +252,14 @@ def main():
     radio_selection = None
 
     with st.sidebar:
-        st.header("The NYT Movie Reviews")
+        st.header("Movie Critic")
 
-        radio_selection = st.radio("View", ["Movie Reviews", "Critic\u2019s Pick", "Related News", "Collage"])
+        radio_selection = st.radio("View", ["Critic\u2019s Pick", "Collage"])
 
-    if radio_selection == "Related News":
-        view_news("Related News", st.session_state['news'])
-    elif "Critic" in radio_selection:
-        view_news("Critic\u2019s Pick", st.session_state['critics'])
-    elif "Collage" in radio_selection:
+    if "Collage" in radio_selection:
         view_collage("Collage", st.session_state["articles"])
     else:
-        # view("Movie Reviews", st.session_state['reviews'])
-        view_news("Movie Reviews", st.session_state['reviews'])
+        view_tabbed("Movie Critic", st.session_state['reviews'])
 
 
 if __name__ == "__main__":
