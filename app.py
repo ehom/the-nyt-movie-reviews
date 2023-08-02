@@ -67,30 +67,26 @@ def find_movie_name(descriptions):
     return movie_name
 
 
-def prepare_text_for_annotation(list_of_people):
-    people = []
+def prepare_text_for_annotation(items):
+    output = []
 
-    if len(list_of_people):
-        for person in list_of_people:
-            pattern = r'(.+) \(([\w\s]+)\)'
-            matches = re.search(pattern, person)
+    if len(items):
+        for topic in items:
+            pattern = r'(.+) \(([\w\s\-]+)\)'
+            matches = re.search(pattern, topic)
             if matches:
                 print("matches:", matches.group(0))
                 print("match:", matches.groups()[-1])
                 name = matches.groups()[0]
                 role = matches.groups()[-1]
-                people.append((name, role))
+                output.append((name, role))
             else:
-                people.append((person, "Actor"))
-
-            people.append(" ")
-
-    # print(people)
-
-    return people
+                output.append((topic, "  "))
+            output.append("  ")
+    return output
 
 
-def display(article, include_persons=True, include_kicker=True):
+def display(article, include_persons=True, include_kicker=True, include_desc=False):
     st.write(iso_to_how_long_ago(article['published_date']))
 
     title, url = article['title'], article['url']
@@ -106,6 +102,10 @@ def display(article, include_persons=True, include_kicker=True):
     if include_kicker and article['kicker']:
         kicker = article['kicker']
         annotated_text((kicker, "", "#FFD700"))
+
+    if include_desc:
+        prepared_text = prepare_text_for_annotation(article['des_facet'])
+        annotated_text(prepared_text)
 
 
 def view(title, articles):
@@ -176,7 +176,7 @@ def view_tabbed(title, articles):
             columns = st.columns([4, 1])
 
             with columns[0]:
-                display(article, include_persons=False, include_kicker=False)
+                display(article, include_persons=False, include_kicker=False, include_desc=True)
 
             with columns[1]:
                 st.image(article['multimedia'][-1]['url'])
